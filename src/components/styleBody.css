@@ -57,6 +57,9 @@ html{
     max-width: 25px;
     margin: 10px;
 }
+.network img:hover{
+    cursor: pointer;
+}
 .dvTextLanding{
     color: white;
     text-align: center;
