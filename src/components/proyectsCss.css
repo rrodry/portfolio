@@ -1,0 +1,8 @@
+.proyectsSection{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background: linear-gradient(180deg, rgb(44, 44, 44) 0%,rgb(255, 255, 255) 100%);
+    flex-direction: row; 
+    flex-wrap: wrap;
+}

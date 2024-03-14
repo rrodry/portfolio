@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.card{
+    max-width: 350px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+
+}
+.card li {
+    list-style: none;
+}
+
+
+.ulDescription{
+    margin: 3px;
+}
+
+
+
+.titleDescr{
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.titleDescr li{
+    font-size: smaller;
+    padding: 4px;
+
+}
+
+.liTitle{
+    list-style: circle !important;
+}
+
+.imageProyects{
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.imageProyects img {
+    width: 220px;
+    height: 150px;
+}

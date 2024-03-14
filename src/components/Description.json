@@ -1,0 +1,153 @@
+[
+    {
+        "Company": "NewBitCrew",
+        "Date": "06/2023 - 01/2024",
+        "ProyectName": "Wellknows",
+        "Responsabilities": [
+            {
+                "titleDescr": "Desarrollo de Interfaz de Usuario (UI)",
+                "text": [
+                    "Crear y diseñar la interfaz de usuario de la aplicación de monitoreo petrolifero sobre la reposicion, mantenimiento y vista de alertas sobre yacimiento petroliferos ; Garantizar que el diseño sea atractivo, intuitivo y fácil de usar",
+                    "Colaborar con desarrolladores back-end para integrar la interfaz de usuario con la lógica del lado del servidor."
+                ]
+            },
+            {
+                "titleDescr": "Programación Front-end",
+                "text": [
+                    "Desarrollar la lógica del lado del cliente utilizando JavaScript y bibliotecas/frameworks como React, Material Ui o Vue.js."
+                ]
+            },
+            {
+                "titleDescr": "Optimización del Rendimiento",
+                "text": [
+                    "Mejorar el rendimiento de la interfaz mediante la optimización del código, el manejo eficiente de recursos y la carga asíncrona."
+                ]
+            },
+            {
+                "titleDescr": "Integración con Back-end",
+                "text": [
+                    "Colaborar con desarrolladores back-end para integrar la interfaz de usuario con la lógica del lado del servidor."
+                ]
+            }
+        ],
+        "src": "LogosProyects/newBitcrew.png"
+    },
+    {
+        "Company": "Freelance",
+        "Date": "10/2023 - 06/2023",
+        "ProyectName": "Freelance",
+        "Responsabilities": [
+            {
+                "titleDescr": "Desarrollo de Interfaz de Usuario (UI)",
+                "text": [
+                    "Crear y diseñar las diferentes interfazes de usuario para diversas companias, testing y resolucion de bugs en diferentes sistemas web."
+                ]
+            },
+            {
+                "titleDescr": "Programación Front-end",
+                "text": [
+                    "Desarrollar la lógica del lado del cliente utilizando JavaScript y bibliotecas/frameworks como React, Angular o Vue.js."
+                ]
+            },
+            {
+                "titleDescr": "Optimización del Rendimiento",
+                "text": [
+                    "Mejorar el rendimiento de la interfaz mediante la optimización del código, el manejo eficiente de recursos y la carga asíncrona."
+                ]
+            },
+            {
+                "titleDescr": "Desarrollo Back-end",
+                "text": [
+                    "Conectar la aplicación a bases de datos y gestionar la recuperación, actualización y eliminación de datos",
+                    "Diseñar y optimizar consultas de base de datos para mejorar el rendimiento. ",
+                    " Desarrollar y mantener API para permitir la comunicación entre el frontend y el backend.",
+                    "Crear servicios web para la integración con sistemas externos."
+                ]
+            }
+        ],
+        "src": "LogosProyects/freelance.png"
+    },
+    {
+        "Company": "Henry",
+        "Date": "10/2022 - 11/2022",
+        "ProyectName": "Asistente de Enseñanza en Henry",
+        "Responsabilities": [
+            {
+                "titleDescr": "Asistente del Pre Curso del Bootcamp (Henry Hero) para alumnos de Desarrollo Full-Stack",
+                "text": [
+                    "Orientar a los estudiantes durante los primeros pasos de la cursada",
+                    "Brindar asistencia en la resolución de ejercicios a través de Slack",
+                    "Dictar clases en vivo para proporcionar instrucción directa a los estudiantes"
+                ]
+            }
+        ],
+        "src": "LogosProyects/henryLogo.png"
+    },
+    {
+        "Company": "Henry",
+        "Date": "10/2022 - 11/2022",
+        "ProyectName": "StudyRooms",
+        "Responsabilities": [
+            {
+                "titleDescr": "Desarrollo de Interfaz de Usuario (UI)",
+                "text": [
+                    "Crear y diseñar la interfez de usuario para plataforma de Q&A."
+                ]
+            },
+            {
+                "titleDescr": "Programación Front-end",
+                "text": [
+                    "Desarrollar la lógica del lado del cliente utilizando JavaScript y bibliotecas/frameworks como React, Redux o Css."
+                ]
+            },
+            {
+                "titleDescr": "Optimización del Rendimiento",
+                "text": [
+                    "Mejorar el rendimiento de la interfaz mediante la optimización del código, el manejo eficiente de recursos y la carga asíncrona."
+                ]
+            },
+            {
+                "titleDescr": "Integración con Back-end",
+                "text": [
+                    "Colaborar con desarrolladores back-end para integrar la interfaz de usuario con la lógica del lado del servidor."
+                ]
+            }
+        ],
+        "src": "LogosProyects/henryLogo.png"
+    },
+    {
+        "Company": "Henry",
+        "Date": "09/2022 - 10/2022",
+        "ProyectName": "Games Catalog",
+        "Responsabilities": [
+            {
+                "titleDescr": "Desarrollo de Interfaz de Usuario (UI)",
+                "text": [
+                    "Crear y diseñar la interfez de usuario para catalogo de videojuegos."
+                ]
+            },
+            {
+                "titleDescr": "Programación Front-end",
+                "text": [
+                    "Desarrollar la lógica del lado del cliente utilizando JavaScript y bibliotecas/frameworks como React, Redux o Css."
+                ]
+            },
+            {
+                "titleDescr": "Optimización del Rendimiento",
+                "text": [
+                    "Mejorar el rendimiento de la interfaz mediante la optimización del código, el manejo eficiente de recursos y la carga asíncrona."
+                ]
+            },
+            {
+                "titleDescr": "Desarrollo Back-end",
+                "text": [
+                    "Conectar la aplicación a bases de datos y gestionar la recuperación, actualización y eliminación de datos",
+                    "Diseñar y optimizar consultas de base de datos para mejorar el rendimiento. ",
+                    " Desarrollar y mantener API para permitir la comunicación entre el frontend y el backend.",
+                    "Crear servicios web para la integración con sistemas externos."
+                ]
+            }
+        ],
+        "src": "LogosProyects/henryLogo.png"
+    }
+]
